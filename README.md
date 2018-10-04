@@ -1,7 +1,3 @@
-# The JavaScript Tutorial
-
-This repository hosts the content of the Modern JavaScript Tutorial, published at [https://javascript.info](https://javascript.info).
-
 # El Tutorial De JavaScript
 
 Este repositorio alberga el contenido del Tutorial Moderno de JavaScript, publicado en [https://javascript.info](https://javascript.info).
