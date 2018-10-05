@@ -2,7 +2,7 @@ importance: 3
 
 ---
 
-# Giving the right name
+# Dando el nombre correcto
 
-1. Create the variable with the name of our planet. How would you name such a variable?
-2. Create the variable to store the name of the current visitor. How would you name that variable?
+1. Crea una variable con el nombre de nuestro planeta. ¿Como nombrarias tal variable?
+2. Crea una variable para guardar el nombre del visitante actual. ¿Como nombrarias tal variable?

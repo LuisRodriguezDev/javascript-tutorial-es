@@ -2,23 +2,22 @@ importance: 4
 
 ---
 
-# Uppercase const?
+# Constante en mayúsculas?
 
-Examine the following code:
-
-```js
-const birthday = '18.04.1982';
-
-const age = someCode(birthday);
-```
-
-Here we have a constant `birthday` date and the `age` is calculated from `birthday` with the help of some code (it is not provided for shortness, and because details don't matter here).
-
-Would it be right to use upper case for `birthday`? For `age`? Or even for both?
+Examina el siguiente código:
 
 ```js
-const BIRTHDAY = '18.04.1982'; // make uppercase?
+const cumpleaños = '18.04.1982';
 
-const AGE = someCode(BIRTHDAY); // make uppercase?
+const edad = algoDeCodigo(cumpleaños);
 ```
 
+Aquí tenemos una fecha de `cumpleaños` constante y una `edad` que se calcula a partir de `cumpleaños` con la ayuda de algún código (no se proporciona para mantener al código conciso, y porque los detalles no importan aquí).
+
+¿Sería correcto usar mayúsculas para `cumpleaños`? Para `edad`? O incluso para las dos?
+
+```js
+const CUMPLEAÑOS = '18.04.1982'; // poner en mayúsculas?
+
+const EDAD = algoDeCodigo(CUMPLEAÑOS); // poner en mayúsculas?
+```
