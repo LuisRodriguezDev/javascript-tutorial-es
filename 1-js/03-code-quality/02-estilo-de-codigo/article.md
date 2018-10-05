@@ -1,4 +1,4 @@
-# Coding style
+# Estilo de Código
 
 Our code must be as clean and easy to read as possible.
 
