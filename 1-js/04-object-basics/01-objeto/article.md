@@ -1,5 +1,4 @@
-
-# Objects
+# Objetos
 
 As we know from the chapter <info:types>, there are seven language types in JavaScript. Six of them are called "primitive", because their values contain only a single thing (be it a string or a number or whatever).
 
