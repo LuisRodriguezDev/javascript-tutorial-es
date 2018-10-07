@@ -16,7 +16,7 @@ null + 1 = 1 // (3)
 undefined + 1 = NaN // (4)
 ```
 
-1. The addition with a string `"" + 1` converts `1` to a string: `"" + 1 = "1"`, and then we have `"1" + 0`, the same rule is applied.
-2. The subtraction `-` (like most math operations) only works with numbers, it converts an empty string `""` to `0`.
-3. `null` becomes `0` after the numeric conversion.
-4. `undefined` becomes `NaN` after the numeric conversion.
+1. La adición con un string `"" + 1` convierte `1` en un string: `"" + 1 = "1"`, y luego tenemos `"1" + 0`, donde se aplica la misma regla.
+2. La resta `-` (como la mayoría de las operaciones matemáticas) solo funciona con números, esta convierte el string vacío `""` a `0`.
+3. `null` se convierte en `0` después de la conversión numérica.
+4. `undefined` se convierte en `NaN` después de la conversión numérica.
